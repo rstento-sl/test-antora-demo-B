@@ -1,0 +1,10 @@
+name: component-b
+title: Security
+version: 1
+start_page: 
+asciidoc:
+  attributes:
+    source-language: asciidoc@
+    table-caption: false
+nav:
+- modules/ROOT/nav.adoc
