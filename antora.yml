@@ -1,7 +1,7 @@
-name: component-b
+name: component-B
 title: Security
 version: 1
-start_page: 
+start_page:
 asciidoc:
   attributes:
     source-language: asciidoc@
